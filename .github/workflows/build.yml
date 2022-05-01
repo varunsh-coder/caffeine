@@ -1,6 +1,6 @@
 name: build
 permissions: read-all
-on: [ push, pull_request ]
+on: [ push, pull_request, workflow_dispatch ]
 
 env:
   ALLOWED_ENDPOINTS: >
