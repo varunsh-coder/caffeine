@@ -12,6 +12,7 @@ env:
     checkerframework.org:443
     coveralls.io:443
     docs.oracle.com:443
+    downloads.gradle-dn.com
     github.com:443
     guava.dev:443
     lightbend.github.io:443
